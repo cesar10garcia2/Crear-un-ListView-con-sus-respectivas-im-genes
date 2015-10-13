@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Crear un ListView con Imagenes en Android Studio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
